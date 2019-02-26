@@ -2,6 +2,8 @@
 
 <h2>Introduction</h2>
 
+<p>Click <a href="https://www.codeproject.com/Articles/1277835/Step-by-Step-Migration-Webpack-3-to-Webpack-4">here</a>  read the full article.</p>
+
 <p>Migrating from Webpack 3 to Webpack 4 is a very cumbersome process. I went through many articles and blogs to find a nice, easy and quick way of doing it. However, I could not find one single article that explains everything and lists out the pain points of migration. So, I decided to write something to help other fellow developers who are considering the upgrade in the near future.</p>
 
 <h2>Background</h2>
