@@ -210,8 +210,3 @@ module.exports = (env) =&gt; {
 
 <p>You can learn more about Webpack 4 configuration <a href="https://webpack.js.org/configuration">here.</a></p>
 
-<h2>History</h2>
-
-<ul>
-	<li>25<sup>th</sup> February, 2019: Initial version</li>
-</ul>
